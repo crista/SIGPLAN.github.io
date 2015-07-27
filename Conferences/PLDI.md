@@ -10,11 +10,11 @@ implementation.
 
 **PLDI Fast Facts**
 
-> [PLDI 2015 Web Page]( http://conf.researchr.org/home/pldi2015)  
-> Location: Portland, Oregon, USA  
-> General Chair: [David Grove](http://researcher.ibm.com/view.php?person=us-groved)  
-> Program Chair: [Steve Blackburn](http://users.cecs.anu.edu.au/~steveb/)  
-> Dates:  June 13-17, 2015  
+> [PLDI 2016 Web Page](http://conf.researchr.org/home/pldi-2016)  
+> Location: Santa Barbara, California, USA  
+> General Chair: [Chandra Krintz](http://www.cs.ucsb.edu/~ckrintz)  
+> Program Chair: [Emery Berger](http://www.cs.umass.edu/~emery/)  
+> Dates:  June 13-17, 2016
 
 **Practices of PLDI**
 
@@ -50,19 +50,11 @@ chairs/vice chairs changing every third year.
 
 The current PLDI steering committee is:
 
--   Philip Wadler, past SIGPLAN Chair
--   Kathleen Fisher, past past SIGPLAN Chair and past PLDI Steering Committee Chair
--   Jan Vitek (Chair), current SIGPLAN Chair and 2012 General Chair
--   Graham Hutton, past SIGPLAN Vice Chair
--   Jeremy Gibbons, current SIGPLAN Vice Chair
--   Frank Tip, 2012 Program Chair
--   Hans Boehm, 2013 Generai Chair
--   Cormac Flanagan, 2013 Program Chair
--   Michael O'Boyle, 2014 General Chair
--   Keshav Pingali, 2014 Program Chair
+{% include committee.liquid name="PLDI Steering Committee" %}
 
 **Web Pages of Previous Conferences**  
 
+- [PLDI 2015](http://conf.researchr.org/home/pldi2015) (Portland, OR)
 - [PLDI 2014](http://conferences.inf.ed.ac.uk/pldi2014/)  (Edinburgh, UK)  
 - [PLDI 2013](http://pldi2013.ucombinator.org/)  (Seattle, WA)  
 - [PLDI 2012](http://pldi12.cs.purdue.edu/)  (Beijing, China)   
